@@ -1,0 +1,19 @@
+Package: ictools
+Title: Unified Tools for Classical and Bootstrap Confidence Intervals
+Version: 0.1.0
+Authors@R: 
+    person("Rayan", "Siffe", 
+           email = "bydex859@gmail.com", 
+           role = c("aut", "cre"))
+Description: Provides a unified and consistent interface for computing
+    classical and bootstrap confidence intervals for means, variances,
+    proportions, variance ratios and regression coefficients.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: stats
+Suggests: testthat (>= 3.0.0), knitr, rmarkdown
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+
