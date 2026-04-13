@@ -1,5 +1,3 @@
-!!!!IMPORTANTE--- AUN EN FASE EXPERIMENTAL
-
 # ictools <img src="https://img.shields.io/badge/R-package-blue?logo=r" align="right" height="28"/>
 
 > **Herramientas para el cálculo de intervalos de confianza en R**  
